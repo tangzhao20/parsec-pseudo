@@ -3,7 +3,7 @@
 This repository provides a growing collection of norm-conserving Troullier-Martins (TM) pseudopotentials. The [Pseudopotential](https://github.com/jlm785/pseudopotential) code by [Jose L. Martins](https://github.com/jlm785) is used to generate data. The _POTRE.DAT format for PARSEC and the UPF format are available.  
 
 ## Citation
-* N. Troullier and Jose L. Martins, *Efficient pseudopotentials for plane-wave calculations*, [Physical Review B 43, 1993](https://doi.org/10.1103/PhysRevB.43.1993) (1991).
+* N. Troullier and Jose L. Martins, *Efficient pseudopotentials for plane-wave calculations*, [Physical Review B **43**, 1993](https://doi.org/10.1103/PhysRevB.43.1993) (1991).
 
 
 ## Directory structure
@@ -31,3 +31,5 @@ parsec-pseudo/
 | | | | | | | | | | | | | | | | | | |
 | | | La | Ce | Pr | Nd | Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu | |
 | | | Ac | Th | Pa | U | Np | Pu | Am | Cm | Bk | Cf | Es | Fm | Md | No | Lr | |
+| | | | | | | | | | | | | | | | | | |
+
