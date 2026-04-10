@@ -1,4 +1,4 @@
-# PARSEC Pseudopotentials library
+# PARSEC pseudopotentials library
 
 This repository provides a growing collection of norm-conserving Troullier-Martins (TM) pseudopotentials. The [Pseudopotential](https://github.com/jlm785/pseudopotential) code by [Jose L. Martins](https://github.com/jlm785) is used to generate data. The _POTRE.DAT format for PARSEC and the UPF format are available.  
 
@@ -23,7 +23,7 @@ parsec-pseudo/
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | H | | | | | | | | | | | | | | | | | He |
 | Li | Be | | | | | | | | | | | B | C | N | O | F | Ne |
-| Na | Mg | | | | | | | | | | | Al | Si | P | S | Cl | Ar |
+| Na | Mg | | | | | | | | | | | Al | Si | P | [S](PBE_FR/16_S_6v) | Cl | Ar |
 | K | Ca | Sc | Ti | V | Cr | Mn | Fe | Co | Ni | Cu | Zn | Ga | Ge | As | [Se](PBE_FR/34_Se_6v) | Br | Kr |
 | Rb | Sr | Y | Zr | Nb | [Mo](PBE_FR/42_Mo_6v) | Tc | Ru | Rh | Pd | Ag | Cd | In | Sn | Sb | Te | I | Xe |
 | Cs | Ba | | Hf | Ta | W | Re | Os | Ir | Pt | Au | Hg | Tl | Pb | Bi | Po | At | Rn |

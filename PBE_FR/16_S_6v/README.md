@@ -1,4 +1,4 @@
-## Se (Selenium)
+## S (Sulfur)
 - Norm-conserving Troullier-Martins potential
 - PBE (GGA) functional
 - Full relativistic
@@ -6,18 +6,18 @@
 
 | Orbital | Occupation | *r*<sub>c</sub> (a.u.) |
 | :---: | :---: | :---: |
-| 4*s* | 2.00 | 1.80 |
-| 4*p* | 4.00 | 1.80 |
-| 4*d* | 0.00 | 1.80 |
+| 3*s* | 2.00 | 1.65 |
+| 3*p* | 4.00 | 1.65 |
+| 3*d* | 0.00 | 1.65 |
 
 ### Kleinman-Bylander ghost state check for _POTRE.DAT
 | Local potential | KB check |
 | :---: | :---: |
 | *s* | ✅ |
 | *p* | ✅ |
-| *d* | ❌ |
+| *d* | ✅ |
 
 ### Suggested cutoff energy for .upf
-* 36 Ry for bands
-* 58 Ry for stress
+* 44 Ry for bands
+* 82 Ry for stress
 
