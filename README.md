@@ -26,7 +26,7 @@ parsec-pseudo/
 | Na | Mg | | | | | | | | | | | Al | Si | P | [S](PBE_FR/16_S_6v) | Cl | Ar |
 | K | Ca | Sc | Ti | V | Cr | Mn | Fe | Co | Ni | Cu | Zn | Ga | Ge | As | [Se](PBE_FR/34_Se_6v) | Br | Kr |
 | Rb | Sr | Y | Zr | Nb | [Mo](PBE_FR/42_Mo_6v) | Tc | Ru | Rh | Pd | Ag | Cd | In | Sn | Sb | Te | I | Xe |
-| Cs | Ba | | Hf | Ta | W | Re | Os | Ir | Pt | Au | Hg | Tl | Pb | Bi | Po | At | Rn |
+| Cs | Ba | | Hf | Ta | [W](PBE_FR/74_W_6v) | Re | Os | Ir | Pt | Au | Hg | Tl | Pb | Bi | Po | At | Rn |
 | Fr | Ra | | Rf | Db | Sg | Bh | Hs | Mt | Ds | Rg | Cn | Nh | Fl | Mc | Lv | Ts | Og |
 | | | | | | | | | | | | | | | | | | |
 | | | La | Ce | Pr | Nd | Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu | |
